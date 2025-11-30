@@ -46,7 +46,7 @@ I enjoy transforming raw datasets into dashboards that help businesses understan
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/dataanalystshohag/)  
+- **🔗LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/dataanalystshohag/)  
 - **GitHub:** https://github.com/Shohag-DataAnalyst  
-
+- 📩 Email: nurealamshohag1@gmail.com 
 ---
