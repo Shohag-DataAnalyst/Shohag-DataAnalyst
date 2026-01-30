@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shohag  
-**Data Analyst | SQL | Power BI | DAX | Data Modeling | Turning Raw Data Into Insights**
+**Data Analyst | SQL | Power BI | DAX | Data Modeling | Turning Raw Data Into Business Insights**
 
 I’m a self-directed data analyst focused on building clean, business-ready analytics solutions using **PostgreSQL, SQL, Power BI, and DAX**.  
 I enjoy transforming raw datasets into dashboards that help businesses understand performance, spot issues early, and make better decisions.
@@ -31,22 +31,36 @@ I enjoy transforming raw datasets into dashboards that help businesses understan
 
 ---
 
-## 📌 Featured Project  
-### **Retail Sales Analytics Dashboard**  
-✔ End-to-end project using SQL + PostgreSQL + Power BI  
-✔ Fully modeled database (fact + dimension tables)  
-✔ Advanced DAX (YoY%, moving averages, KPI cards)  
-✔ 4-page interactive dashboard  
+## 📌 Featured Projects
 
-🔗 Live Repo:  
-**https://github.com/Shohag-DataAnalyst/Retail-Sales-Analytics-Dashboard**
+### 1️⃣ Product Funnel & Monetization Analysis
+- Product funnel drop-offs, activation, paid conversion, monetization
+- Power BI dashboard with multiple pages + glossary
+- [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiY2E2YWEzYjctYjE2YS00ZTc1LTlmMDAtMjVjZDBhYTA5YTI2IiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D)
+- [**GitHub Repo**](https://github.com/Shohag-DataAnalyst/product-funnel-conversion-analysis)
+
+---
+
+### 2️⃣ Smart Warehouse Operations Dashboard
+- Inventory health, demand volatility, stockout & overstock risk
+- Forecasting + SKU-level operational insights
+- [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZGI1ZjkxYTYtNWQ1ZS00ODM2LTk5ZjMtNDM3YzA2YmI0NmY5IiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D)
+- [**GitHub Repo**](https://github.com/Shohag-DataAnalyst/smart-warehouse-operations-dashboard)
+
+---
+
+### 3️⃣ Retail Sales Performance & Profitability
+- Revenue trends, margin analysis, product performance, returns
+- Executive-level sales analytics
+- [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjdjMWZkMjUtOWM3Ny00NmJhLTliYWQtOWViYzUxYzMyZTQzIiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D)
+- [**GitHub Repo**](https://github.com/Shohag-DataAnalyst/Retail-Sales-Analytics-Dashboard)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced DAX patterns  
-- More complex SQL window functions  
-- Power BI performance optimization  
+- Azure fundamentals for analytics workloads  
+- Snowflake cloud data warehousing  
+- Tableau for enterprise BI dashboards  
 
 ---
 
