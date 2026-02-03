@@ -8,7 +8,7 @@ I enjoy transforming raw datasets into dashboards that help businesses understan
 
 ## 🌐 Portfolio
 👉 **Live Portfolio (Projects + Interactive Dashboards):**  
-[Click Here](https://www.notion.so/Nura-Alam-Shohag-Data-Analyst-Portfolio-2b9e99e239c2809ab0aaf6a2281d40ab?source=copy_link)
+[Click Here](https://datalel.com)
 
 ---
 ## 🚀 What I Can Do
