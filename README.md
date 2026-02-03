@@ -8,7 +8,7 @@ I enjoy transforming raw datasets into dashboards that help businesses understan
 
 ## 🌐 Portfolio
 👉 **Live Portfolio (Projects + Interactive Dashboards):**  
-[Click Here](https://datalel.com)
+https://datalel.com
 
 ---
 ## 🚀 What I Can Do
